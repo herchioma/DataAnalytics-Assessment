@@ -60,12 +60,4 @@ One early challenge was figuring out how savings and investments were represente
 
 ## Testing and Optimization
 
-I rigorously tested each query against subsets of data to verify accuracy and debug edge cases, such as customers with no transactions or very recent sign-ups. Performance optimizations like limiting datasets during development and using functions to prevent errors were essential to keep queries efficient and reliable.
-
-## Documentation & Version Control
-
-- Each query was saved as a standalone `.sql` file with clear comments explaining the logic, especially where complexity was involved.
-- The README was written to provide a transparent overview of my approach, challenges, and solutions, demonstrating thoughtful problem solving.
-- The entire project was version controlled using Git, with meaningful commit messages reflecting each development stage.
-- Finally, the repository was uploaded to GitHub to showcase my work professionally.
-
+I tested each query against subsets of data to verify accuracy and debug edge cases, such as customers with no transactions or very recent sign-ups. Performance optimizations like limiting datasets during development and using functions to prevent errors were essential to keep queries efficient and reliable.
